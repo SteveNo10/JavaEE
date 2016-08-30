@@ -1,0 +1,3 @@
+include 'GradleCore', 'GradleApp'
+
+rootProject.name = 'GradleMutilProject'

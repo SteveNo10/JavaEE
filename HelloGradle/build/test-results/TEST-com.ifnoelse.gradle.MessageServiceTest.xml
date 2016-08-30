@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ifnoelse.gradle.MessageServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-08-24T02:08:52" hostname="DELL-E6440" time="0.003">
+  <properties/>
+  <testcase name="test" classname="com.ifnoelse.gradle.MessageServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
